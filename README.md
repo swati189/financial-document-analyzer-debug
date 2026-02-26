@@ -7,7 +7,7 @@ A comprehensive financial document analysis system that processes corporate repo
 
 ### Install Required Libraries
 ```sh
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ### Sample Document
